@@ -20,5 +20,5 @@ echo "alias config='/usr/bin/git --git-dir=$HOME/.dotfile/ --work-tree=$HOME'" >
 ``` shell
 git clone --bare <git-repo-url> $HOME/.dotfile
 ```
-Run commands from Getting Started except for the git init command.
+- Run commands from Getting Started except for the git init command.
 
