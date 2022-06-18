@@ -18,5 +18,7 @@ echo "alias config='/usr/bin/git --git-dir=$HOME/.dotfile/ --work-tree=$HOME'" >
 ## Cloning Repo
 - Clone dotfiles by cloning the repo as bare repository.
 ``` shell
-git clone --bare <git-repo-url> $HOME/.cfg
+git clone --bare <git-repo-url> $HOME/.dotfile
 ```
+Run commands from Getting Started except for the git init command.
+
